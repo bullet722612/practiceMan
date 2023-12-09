@@ -8,7 +8,7 @@ function App() {
   <body>
     <p><button>YOGESH</button></p>
   </body>
-</html> 
+</html>
   );
 }
 export default App;
